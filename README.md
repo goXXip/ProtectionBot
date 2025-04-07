@@ -3,7 +3,8 @@ irc protection bot auto gline spam ip
 
 Install Library;
 
-npm install irc-framework crypto fs https
+
+# npm install irc-framework crypto fs https
 
 
 IRC botunuzu arka planda (daemon olarak) çalıştırmak için aşağıdaki yöntemlerden birini kullanabilirsiniz:
